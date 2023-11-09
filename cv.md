@@ -3,9 +3,8 @@
 
 ### Contacts 
 
-GitHub: Alexandr9113
-
-Discord: Yo_makar (@Alexandr9113)
+* GitHub: Alexandr9113
+* Discord: Yo_makar (@Alexandr9113)
 
 
 ### About me
@@ -16,11 +15,9 @@ I am very interested in learning, as I need to improve my living conditions. I u
 
 ### Skills
 
-python - telegram bots
-
-C# - game development in unity
-
-JavaSkript - I only know the basics, since I started learning this language at stage 0
+1. python - telegram bots
+2. C# - game development in unity
+3. JavaSkript - I only know the basics, since I started learning this language at stage 0
 
 
 ### CODE
